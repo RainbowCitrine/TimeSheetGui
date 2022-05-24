@@ -5,7 +5,7 @@
   week, as the theme was for someone who works part time only. Therefore, I chose to use Monday and Tuesday as the days of the week! 
 
 
- **Here is a video of the TimeSheet** 
+ **Here is a video of the TimeSheet (For Best Quality use Full ScreenMode)** 
 
 
 https://user-images.githubusercontent.com/95068655/170111934-d5d3e0f3-3ba7-43f6-9396-052bc29fab0d.mp4
